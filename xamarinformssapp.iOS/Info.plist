@@ -23,15 +23,15 @@
     <key>MinimumOSVersion</key>
     <string>8.0</string>
     <key>CFBundleDisplayName</key>
-    <string>xamarinformsapp1</string>
+    <string>xamarinformssapp</string>
     <key>CFBundleIdentifier</key>
-    <string>com.evkhramk.xamarinformsapp1</string>
+    <string>com.evkhramk.xamarinformssapp</string>
     <key>CFBundleVersion</key>
     <string>1.0</string>
     <key>UILaunchStoryboardName</key>
     <string>LaunchScreen</string>
     <key>CFBundleName</key>
-    <string>xamarinformsapp1</string>
+    <string>xamarinformssapp</string>
     <key>XSAppIconAssets</key>
     <string>Assets.xcassets/AppIcon.appiconset</string>
 </dict>

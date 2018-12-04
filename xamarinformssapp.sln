@@ -1,11 +1,11 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xamarinformsapp1.Android", "xamarinformsapp1.Android\xamarinformsapp1.Android.csproj", "{9C872B35-1B04-4374-80EF-F2FF478E79F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xamarinformssapp.Android", "xamarinformssapp.Android\xamarinformssapp.Android.csproj", "{9C872B35-1B04-4374-80EF-F2FF478E79F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xamarinformsapp1.iOS", "xamarinformsapp1.iOS\xamarinformsapp1.iOS.csproj", "{2F556FB4-4F25-46D1-974A-4498BF19AF17}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xamarinformssapp.iOS", "xamarinformssapp.iOS\xamarinformssapp.iOS.csproj", "{2F556FB4-4F25-46D1-974A-4498BF19AF17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xamarinformsapp1", "xamarinformsapp1\xamarinformsapp1.csproj", "{70652751-9E4C-4018-A016-3A067B8C627C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xamarinformssapp", "xamarinformssapp\xamarinformssapp.csproj", "{70652751-9E4C-4018-A016-3A067B8C627C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

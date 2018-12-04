@@ -5,7 +5,7 @@ using System.Linq;
 using Foundation;
 using UIKit;
 
-namespace xamarinformsapp1.iOS
+namespace xamarinformssapp.iOS
 {
     public class Application
     {

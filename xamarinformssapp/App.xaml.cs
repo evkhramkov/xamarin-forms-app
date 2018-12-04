@@ -3,7 +3,7 @@ using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
 [assembly: XamlCompilation(XamlCompilationOptions.Compile)]
-namespace xamarinformsapp1
+namespace xamarinformssapp
 {
     public partial class App : Application
     {

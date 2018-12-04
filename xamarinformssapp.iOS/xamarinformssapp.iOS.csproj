@@ -9,9 +9,9 @@
     <ProjectTypeGuids>{FEACFBD2-3405-455C-9665-78FE426C6842};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <TemplateGuid>{6143fdea-f3c2-4a09-aafa-6e230626515e}</TemplateGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>xamarinformsapp1.iOS</RootNamespace>
+    <RootNamespace>xamarinformssapp.iOS</RootNamespace>
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
-    <AssemblyName>xamarinformsapp1.iOS</AssemblyName>
+    <AssemblyName>xamarinformssapp.iOS</AssemblyName>
     <MtouchHttpClientHandler>NSUrlSessionHandler</MtouchHttpClientHandler>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
@@ -152,9 +152,9 @@
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
-    <ProjectReference Include="..\xamarinformsapp1\xamarinformsapp1.csproj">
+    <ProjectReference Include="..\xamarinformssapp\xamarinformssapp.csproj">
       <Project>{70652751-9E4C-4018-A016-3A067B8C627C}</Project>
-      <Name>xamarinformsapp1</Name>
+      <Name>xamarinformssapp</Name>
     </ProjectReference>
   </ItemGroup>
 </Project>
